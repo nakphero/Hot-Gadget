@@ -1,0 +1,46 @@
+.carousel-item{
+    padding: 20px 45px;
+}
+.container{
+    margin-bottom: 40px;
+    border-radius: 4%;
+}
+.carousel-item{
+    border: 10px 15px 10px grey;
+}
+/*
+carousel end
+*/
+.card-footer{
+    border-top: none;
+    text-align: center;
+}
+.phonesText{
+    margin-bottom: 20px;
+}
+.seeAll{
+    float: right;
+    font-size: 14px;
+    color: black;
+}
+/*
+cetagories
+*/
+.headTextCetagroies{
+    text-align: center;
+}
+hr{
+  border: 10px solid #FFBD60;
+  border-radius: 5px;
+  height: 40px;
+  width: 150px;
+  font-weight: 500;
+}
+.last{
+    height: 400px;
+    width: 300px;
+}
+
+.main{
+    text-align: center;
+}
